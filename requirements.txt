@@ -1,0 +1,8 @@
+fastapi==0.78.0
+joblib==1.1.0
+pandas==1.4.2
+pydantic==1.9.1
+uvicorn==0.18.1
+aiofiles==0.6.0
+python-multipart==0.0.5
+jinja2==2.11.2
