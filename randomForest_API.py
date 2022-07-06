@@ -59,5 +59,5 @@ async def multiple_predict(inputs:List[ModelInput]):
     return response
 
 
-if __name__ == "__main__":
-    uvicorn.run(fastapi_multiple_predictions, port=8050,host='0.0.0.0')
+# if __name__ == "__main__":
+#     uvicorn.run(fastapi_multiple_predictions, port=8050,host='0.0.0.0')
